@@ -46,8 +46,6 @@ Remember to replace `<directory>`, `<file>`, `<source>`, `<destination>`, `<file
 
 # Git Commands
 
-This document provides a list of commonly used Git commands.
-
 ## Repository Setup
 
 - `git init`: Initializes a new Git repository.
@@ -91,7 +89,6 @@ Remember to replace `<repository>`, `<file>`, `<message>`, `<remote>`, `<branch>
 
 # Additional Git Commands
 
-This document provides a list of additional Git commands.
 
 ## Stashing and Cleaning
 
